@@ -8,6 +8,7 @@ import scipy.io as sio
 # import matplotlib.pyplot as plt
 # import seaborn as sns # par anàlisi estadístic
 # import tqdm
+# from icecream import ic # per fer debug
 
 
 # funcions ___________________________________________________________________________________________________________
