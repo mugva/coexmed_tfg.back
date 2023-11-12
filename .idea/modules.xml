@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tfg_uib_marc.iml" filepath="$PROJECT_DIR$/.idea/tfg_uib_marc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coexmed_tfg.iml" filepath="$PROJECT_DIR$/.idea/coexmed_tfg.iml" />
     </modules>
   </component>
 </project>
